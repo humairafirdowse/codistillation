@@ -21,11 +21,15 @@ conda activate <env_name>
 ```
 
 ## Data
-Dataset 1: APTOS 2019 Blindness Detection (2019)
-Link: https://www.kaggle.com/competitions/aptos2019-blindness-detection/data 
 
-Dataset 2: COVID-19 Radiography Database (2020)
+Dataset 1: APTOS 2019 Blindness Detection (2019)  
+
+Link: https://www.kaggle.com/competitions/aptos2019-blindness-detection/data  
+
+Dataset 2: COVID-19 Radiography Database (2020)  
+
 Link: https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database
+
 
 ## Execution
 
